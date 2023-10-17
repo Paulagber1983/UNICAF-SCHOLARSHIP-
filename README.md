@@ -2,7 +2,8 @@
 ## UNICAF SCHOLARSHIP 2023/2024.
 
 ## UNICAF SCHOLARSHIP 2023/2024: UNLEASHING YOUR EDUCATIONAL DREAMS. 
-
+![image alt text](
+https://github.com/Paulagber1983/Unicaf-Scholarship-photos/blob/main/Unicaf%20Scholarship%206.jpg)
 ### PREFACE:   
 
 <p>The Unicaf Scholarship Program is a  lamp of stopgap for  innumerous  individualities around the world who dream of pursuing advanced education. Unicaf, short for" University of Nicosia and Cambridge Education through Unicaf," is an association  devoted to making quality education accessible to all. In this composition, we will claw into the details of the Unicaf Scholarship, understanding what it is, its significance, and how you can  profit from this remarkable  occasion.</p>   
@@ -18,6 +19,7 @@
 
 #### Diverse Course Immolations:
 <p>The Unicaf Scholarship covers a broad diapason of academic disciplines, from business and healthcare to humanities and social  lores. This diversity ensures that there is a program for  nearly every field of interest.</p>  
+![image alt text]
 
 #### Global Recognition:
 <p>Partnering with  reputed institutions ensures that your degree carries weight in the professional world. It opens doors to a global network of alumni and  openings.</p> 
